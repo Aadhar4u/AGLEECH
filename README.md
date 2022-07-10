@@ -1,4 +1,4 @@
-[![Deploy 2 Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/armysquadbyag/ARMYSQUAD-LEECH )
+[![Deploy 2 Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhar4u/AGLEECH )
 
 ![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
 
